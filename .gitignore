@@ -1,0 +1,4 @@
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "data/" >> .gitignore
+echo "results/" >> .gitignore
